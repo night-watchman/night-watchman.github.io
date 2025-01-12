@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>冒险日志</title>
+    <link>https://adventurer.club/</link>
+    <description>Recent content on 冒险日志</description>
+    <image>
+      <title>冒险日志</title>
+      <url>https://adventurer.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://adventurer.club/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 12 Jan 2025 11:44:59 +0800</lastBuildDate>
+    <atom:link href="https://adventurer.club/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024 年度总结</title>
+      <link>https://adventurer.club/posts/2024-annual-summary/</link>
+      <pubDate>Sun, 12 Jan 2025 11:44:59 +0800</pubDate>
+      <guid>https://adventurer.club/posts/2024-annual-summary/</guid>
+      <description>&lt;p&gt;之前一直没有写总结的习惯，发现工作之后时间好像开了加速键，一转眼已经是工作的第六个年头了，也已经到了奔三的年纪。&lt;/p&gt;
+&lt;p&gt;其实很早就想要开始记录的，但是拖延症太严重了，很早就想每个月盘一下自己的工作做了什么，恍恍惚惚一年又过去了，还是一篇月度总结都没有。立下了个 flag 至少 2024 的年度总结还是要写，即使如流水一般的岁月中也是有些值得纪念的事。&lt;/p&gt;
+&lt;h2 id=&#34;工作&#34;&gt;工作&lt;/h2&gt;
+&lt;p&gt;工作感觉今年没有做出什么成果，每天都是各种各样的业务需求。上半年还做了个比较重要的项目，但下半年似乎什么也没做，代码的提交量在下半年也没有多少。还有各种各样自己想做的一些系统优化迟迟未能实现，精力都耗在各种各样插入的需求中来了。&lt;/p&gt;
+&lt;p&gt;技术上感觉很久没有了解更多的东西，也没有继续学习，过了一年只能对自己说对业务的理解又加深了一些。&lt;/p&gt;
+&lt;p&gt;2024 是个危机四伏的一年，上半年业务也经历过一轮裁员，组里也走了不少伙伴，也看到有个博客的技术大佬作为技术 leader 也被裁了。依靠技术渡过中年危机看来也是不可行了，现在大家都没有职业安全感，无论是基层还是一线的管理应该都是。但这应该是整个社会的缩影，各行各业的裁员消息就不断，不仅仅是互联网受到影响。所以现在大家都热衷于考公考编，在经济下行的年代稳定性是大家更看重的。&lt;/p&gt;
+&lt;p&gt;明年会更好吗，希望吧。&lt;/p&gt;
+&lt;h2 id=&#34;旅行&#34;&gt;旅行&lt;/h2&gt;
+&lt;p&gt;24 年第一次进行一趟国外的旅行，在五一的时候去了一趟泰国普吉岛。感受到了出国旅行也没有那么难，泰国在大多数场景下也提供了中文服务，但在没有中文的场景下依靠蹩脚的英文还有对应的 body language 也能达成想要的目的。语言不是最大的问题，可以探索更多的国家。&lt;/p&gt;
+&lt;p&gt;一共去了五天，第一天和最后一天基本都在赶路，完整玩的是三天。体验下来三天的行程在普吉岛是足够了。&lt;/p&gt;
+&lt;p&gt;第一天去了皮皮岛浮潜，第二天去海边冲浪，第三天去了斯米兰群岛。印象最深的还是去斯米兰群岛，进行了人生中的第一次潜水，虽然不会游泳，但是不妨碍欣赏海底美丽的景色。刚下水时还有些恐惧，逐渐适应后开始观察这个水下的世界。在海底很安静，只能听到自己的呼吸与心跳声。鱼群在珊瑚之间肆意游荡，以前只有在电视上看到的画面真实出现在眼前了。&lt;/p&gt;
+&lt;p&gt;放长假还是给生活释放了不少压力，加上有旅行对生活有了更多的期待，不再是平淡如水的日复一日。&lt;/p&gt;
+&lt;h2 id=&#34;geocaching&#34;&gt;geocaching&lt;/h2&gt;
+&lt;p&gt;地理寻宝今年偶然间知道了这个游戏，根据题目中的位置信息与提示去寻找藏在某个地方的“宝藏”，其实也就是一个容器里面装着小纸条，找到的人就在上面签下自己的名字。&lt;/p&gt;
+&lt;p&gt;打宝吸引我的地方是本身就有一种探险的属性，像是找到了一张尘封多年的藏宝图，解开一道道的谜题最终收获了宝藏。虽然这个“宝藏”就是在一张纸条上面签名，然后放回去，让他等待下一位探险者。但找到的那一刻心里的成就感得到了极大的满足，一切都如我推测的那样。&lt;/p&gt;
+&lt;p&gt;藏的宝可能是经历过漫长的岁月洗礼，也惊叹居然能在一个地方保存十多年，没有人拿走也没有人破坏。看着签到本上一个个签名与日期，虽然与这些人素未谋面，但我们在此刻产生了一些联系。&lt;/p&gt;
+&lt;p&gt;但打宝过程中也会有各种各样的问题找不到，可能是线索没解出来，也有可能是被人拿走了，也有相当一部分是找不到的。就像是人生，遗憾才是主旋律。好在是大家选择藏宝的地点都是不错的位置，或是风景优美，或是有历史文化，即使没有找到“宝藏”，这一路上的风景也是最好的宝藏。&lt;/p&gt;
+&lt;p&gt;还有一种宝藏是 travel bug 旅行虫 ，顾名思义就是会到处旅行的宝藏。找到宝藏的人可以在对应的容器里留下一些东西，后续找到的人可以将里面的东西拿走，放到另外的藏宝点，开启他的旅行之路。他可能经历过城市、森林，也可能经历过沙漠海滩，可能漂流过一个个国家，经历过不同的人，在不同的地方流转。或许有一天，最初放下这个 travel bug 的人能在某个地方再次重逢。&lt;/p&gt;
+&lt;p&gt;之前我对生活是没有那么多期待的，也比较宅，但现在有了更多的目标，希望能找到更多的 cache 也希望能找到第一个 travel bug。把 travel bug 送到更远的地方去旅行。&lt;/p&gt;
+&lt;p&gt;引用一段一位在藏宝点中留下 travel bug 的评论&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Found a cache big enough to drop off 2 trackables (TB&amp;rsquo;S) from England. PLEASE TAKE ONE OR BOTH TO ANOTHER CACHE. Don&amp;rsquo;t keep them!! Wizza the Sand Wasp must buzz around the world! The mini car needs to race from country to country. Happy travels! Greetings from England. TFTC&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
